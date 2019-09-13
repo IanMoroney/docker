@@ -1,6 +1,0 @@
-node_modules
-jest
-terraform.tfvars
-terraform.tfstate.backup
-terraform.tfstate
-.terraform
